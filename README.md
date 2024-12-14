@@ -91,10 +91,6 @@ S.H.I.N.O-the-ai-assistant/
 
 Contributions are welcome! Feel free to submit issues, request features, or create pull requests.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - **Google Gemini AI**: For providing the AI capabilities.
